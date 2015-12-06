@@ -153,6 +153,27 @@ pre {
 
 
 /**
+ * Forms
+ */
+input,
+textarea {
+    display: block;
+    border-width: 1px;
+    width: 100%;
+    padding: 1px 5px;
+    margin: 5px 0;
+    color: inherit;
+    font: inherit;
+    font-size: $small-font-size;
+}
+button {
+    -webkit-appearance: button;
+    cursor: pointer;
+}
+
+
+
+/**
  * Wrapper
  */
 .wrapper {

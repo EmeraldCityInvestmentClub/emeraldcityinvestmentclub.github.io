@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+header: true
 ---
 
 Founded in 1987, Emerald City Investment Club is a Seattle-based member of
