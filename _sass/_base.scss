@@ -159,12 +159,13 @@ input,
 textarea {
     display: block;
     border-width: 1px;
-    width: 100%;
-    padding: 1px 5px;
+    width: 98%;
+    padding: 3px 1%;
     margin: 5px 0;
     color: inherit;
     font: inherit;
     font-size: $small-font-size;
+    resize: vertical;
 }
 button {
     -webkit-appearance: button;
